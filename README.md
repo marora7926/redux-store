@@ -37,7 +37,7 @@ THEN I find that the app uses Redux instead of the Context API
 [👋 Redux-Store Repo 👋](https://github.com/marora7926/redux-store)
 
 ## Deployed link
-[🎥 Redux-Store Application 🎥](https://tech-blog-ma.herokuapp.com/)
+[🎥 Redux-Store Application 🎥](https://redux-store-ma.herokuapp.com/)
 
 ---
 © 2021 Mohit Arora. Confidential and Proprietary. All Rights Reserved.
